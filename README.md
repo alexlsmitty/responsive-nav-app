@@ -3,6 +3,16 @@
 ## Overview
 A modern, responsive navigation bar built with React and TailwindCSS, featuring a collapsible menu, smooth animations, and mobile-first design. Created for my girlfriend's art website, as well as for my CPRG310 Course. 
 
+## Design Inspirations and Ideas
+My girlfriend made a few requests when I embarked on this project, primarily that the navigation menu was yellow and included her name and logo.
+She also wanted the design to appear "friendly and warm," which I achieved by utilizing TailwindCSS classes to make the button links rounder, with a soft shadow effect. Despite this soft appearance though, the menu is still snappy and fast.
+I made a mockup in Figma to start, and upon getting approval I moved onto making the codebase for this application.
+Most of my inspiration for this specific design has been previous ones I did for her website, but I wanted to improve upon the super basic HTML and CSS I employed to make her previous design.
+
+## Original Design:
+![Screenshot 2025-01-29 002730](https://github.com/user-attachments/assets/74547e25-25fa-4a86-8495-36d27ee091d8)
+Original Design Mockup made in Figma
+
 ## Features
 - 🎨 Yellow-themed design with hover effects
 - 📱 Responsive layout (mobile-first approach)
