@@ -63,11 +63,11 @@ Install dependencies:
 Start development server:
 
 Dependencies:
-    React
-    React Router DOM
-    TailwindCSS
-    Material Icons
+- React
+- React Router DOM
+- TailwindCSS
+- Material Icons
 Browser Support:
-    Chrome/Edge (latest)
-    Firefox (latest)
-    Safari (latest)
+- Chrome/Edge (latest)
+- Firefox (latest)
+- Safari (latest)
